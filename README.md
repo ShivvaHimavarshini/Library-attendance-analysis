@@ -1,2 +1,2 @@
 # Library-attendance-analysis
-A two-month internship project analyzing Anurag University’s library data to identify attendance patterns, borrowing trends, and user behavior. Insights support better resource allocation, strategic planning, and enhanced user engagement.
+The project analyzes library attendance and borrowing data to uncover usage patterns, popular books, user demographics, and departmental trends. Insights from the analysis help improve resource allocation, enhance user experience, and support strategic decisions for better library management.
